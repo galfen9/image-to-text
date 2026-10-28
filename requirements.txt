@@ -1,0 +1,8 @@
+torch>=2.0
+transformers==4.50.3
+Pillow>=10.0
+accelerate
+gradio>=4.0
+timm
+einops
+torchvision
